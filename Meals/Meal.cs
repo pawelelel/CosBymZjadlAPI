@@ -14,7 +14,7 @@ public class Meal
 
 	public Difficulty Difficulty { get; set; }
 
-	public byte[] Image { get; set; }
+	public List<Photo> Photos { get; set; }
 
 	public string Ingredients { get; set; }
 
