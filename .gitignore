@@ -1,4 +1,11 @@
 run.bat
+.vs
+
 CosBymZjadlAPI/bin/
 CosBymZjadlAPI/obj/
-.vs
+
+Database/bin/
+Database/obj/
+
+Meals/bin/
+Meals/obj/

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosBymZjadlAPI", "CosBymZjadlAPI\CosBymZjadlAPI.csproj", "{24FF8DF4-24E6-496E-9A08-B6643FC776A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosBymZjadlAPI", "CosBymZjadlAPI\CosBymZjadlAPI.csproj", "{24FF8DF4-24E6-496E-9A08-B6643FC776A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{0A02DF95-CF4D-4E4E-B6E7-DBA9FF7EFD09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meals", "Meals\Meals.csproj", "{841B8C3C-DE11-4AFD-9261-2F21001F65F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{24FF8DF4-24E6-496E-9A08-B6643FC776A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24FF8DF4-24E6-496E-9A08-B6643FC776A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24FF8DF4-24E6-496E-9A08-B6643FC776A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A02DF95-CF4D-4E4E-B6E7-DBA9FF7EFD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A02DF95-CF4D-4E4E-B6E7-DBA9FF7EFD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A02DF95-CF4D-4E4E-B6E7-DBA9FF7EFD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A02DF95-CF4D-4E4E-B6E7-DBA9FF7EFD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841B8C3C-DE11-4AFD-9261-2F21001F65F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841B8C3C-DE11-4AFD-9261-2F21001F65F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841B8C3C-DE11-4AFD-9261-2F21001F65F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841B8C3C-DE11-4AFD-9261-2F21001F65F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

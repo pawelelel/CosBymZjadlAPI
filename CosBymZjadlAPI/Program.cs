@@ -1,4 +1,8 @@
+using Database;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddSingleton<IDatabase, Database.Database>();
 
 // Add services to the container.
 
