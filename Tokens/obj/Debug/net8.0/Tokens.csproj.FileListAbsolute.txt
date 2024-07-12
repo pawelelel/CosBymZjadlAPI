@@ -1,0 +1,16 @@
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\bin\Debug\net8.0\Tokens.deps.json
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\bin\Debug\net8.0\Tokens.dll
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\bin\Debug\net8.0\Tokens.pdb
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\bin\Debug\net8.0\Users.dll
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\bin\Debug\net8.0\Users.pdb
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\obj\Debug\net8.0\Tokens.csproj.AssemblyReference.cache
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\obj\Debug\net8.0\Tokens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\obj\Debug\net8.0\Tokens.AssemblyInfoInputs.cache
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\obj\Debug\net8.0\Tokens.AssemblyInfo.cs
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\obj\Debug\net8.0\Tokens.csproj.CoreCompileInputs.cache
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\obj\Debug\net8.0\Tokens.sourcelink.json
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\obj\Debug\net8.0\Tokens.csproj.Up2Date
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\obj\Debug\net8.0\Tokens.dll
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\obj\Debug\net8.0\refint\Tokens.dll
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\obj\Debug\net8.0\Tokens.pdb
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Tokens\obj\Debug\net8.0\ref\Tokens.dll

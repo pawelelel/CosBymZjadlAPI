@@ -1,0 +1,12 @@
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\bin\Debug\net8.0\Users.deps.json
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\bin\Debug\net8.0\Users.dll
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\bin\Debug\net8.0\Users.pdb
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\obj\Debug\net8.0\Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\obj\Debug\net8.0\Users.AssemblyInfoInputs.cache
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\obj\Debug\net8.0\Users.AssemblyInfo.cs
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\obj\Debug\net8.0\Users.csproj.CoreCompileInputs.cache
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\obj\Debug\net8.0\Users.sourcelink.json
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\obj\Debug\net8.0\Users.dll
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\obj\Debug\net8.0\refint\Users.dll
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\obj\Debug\net8.0\Users.pdb
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\Users\obj\Debug\net8.0\ref\Users.dll

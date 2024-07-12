@@ -14,11 +14,11 @@ public class Meal
 
 	public Difficulty Difficulty { get; set; }
 
+	public Photo MainPhoto { get; set; }
+
 	public List<Photo> Photos { get; set; }
 
 	public string Ingredients { get; set; }
 
 	public string Recipe { get; set; }
-
-	public bool IsFavourite { get; set; }
 }

@@ -9,6 +9,11 @@
     }
   },
   "profiles": {
+    "own": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5107"
+    },
     "http": {
       "commandName": "Project",
       "dotnetRunMessages": true,

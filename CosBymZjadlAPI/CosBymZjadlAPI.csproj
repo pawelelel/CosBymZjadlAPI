@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -11,8 +11,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Database\Database.csproj" />
+    <ProjectReference Include="..\Database\MealsDatabase.csproj" />
     <ProjectReference Include="..\Meals\Meals.csproj" />
+    <ProjectReference Include="..\Tokens\Tokens.csproj" />
+    <ProjectReference Include="..\UsersDatabase\UsersDatabase.csproj" />
+    <ProjectReference Include="..\Users\Users.csproj" />
   </ItemGroup>
 
 </Project>

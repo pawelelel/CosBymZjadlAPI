@@ -1,0 +1,16 @@
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\obj\Debug\net8.0\UsersDatabase.csproj.AssemblyReference.cache
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\obj\Debug\net8.0\UsersDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\obj\Debug\net8.0\UsersDatabase.AssemblyInfoInputs.cache
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\obj\Debug\net8.0\UsersDatabase.AssemblyInfo.cs
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\obj\Debug\net8.0\UsersDatabase.csproj.CoreCompileInputs.cache
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\obj\Debug\net8.0\UsersDatabase.sourcelink.json
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\bin\Debug\net8.0\UsersDatabase.deps.json
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\bin\Debug\net8.0\UsersDatabase.dll
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\bin\Debug\net8.0\UsersDatabase.pdb
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\bin\Debug\net8.0\Users.dll
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\bin\Debug\net8.0\Users.pdb
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\obj\Debug\net8.0\UsersDat.2381DF10.Up2Date
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\obj\Debug\net8.0\UsersDatabase.dll
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\obj\Debug\net8.0\refint\UsersDatabase.dll
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\obj\Debug\net8.0\UsersDatabase.pdb
+C:\Users\pawci\OneDrive\Pawel\szkola\informatyka\Cos bym zjadl\CosBymZjadlAPI\UsersDatabase\obj\Debug\net8.0\ref\UsersDatabase.dll
